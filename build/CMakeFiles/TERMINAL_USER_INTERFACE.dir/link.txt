@@ -1,0 +1,1 @@
+/usr/sbin/c++ -Wl,--dependency-file,CMakeFiles/TERMINAL_USER_INTERFACE.dir/link.d "CMakeFiles/TERMINAL_USER_INTERFACE.dir/workspaces/online-github-lab/source/main.cc.o" -o /workspaces/online-github-lab/bin/TERMINAL_USER_INTERFACE  -lncurses
